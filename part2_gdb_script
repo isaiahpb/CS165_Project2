@@ -1,0 +1,9 @@
+b 25
+r "part_2"
+set test[38] = 0x8d
+set test[39] = 0x86
+set test[46] = 0xde
+set test[47] = 0xad
+set test[48] = 0xbe
+set test[49] = 0xef
+continue

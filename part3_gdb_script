@@ -1,0 +1,17 @@
+b 25
+b 71
+b 78
+r "part_3"
+set test[38] = 0x75
+set test[39] = 0x87
+set test[42] = 0x56
+set test[43] = 0x87
+set test[44] = 0x04
+set test[45] = 0x08
+set test[46] = 0x98
+set test[47] = 0x87
+set test[48] = 0x04
+set test[49] = 0x08
+c
+c
+c

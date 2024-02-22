@@ -9,7 +9,7 @@
 char filename[100];
 
 // strings - get your group's strings from the TA
-#define STRING1 "test_this_offset_impact_longer_longer"
+#define STRING1 "aadcnm1"
 #define STRING2 ""
 
 
